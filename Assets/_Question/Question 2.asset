@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 963ca7bee5060104b897fabfe3cf69e2, type: 3}
+  m_Name: Question 2
+  m_EditorClassIdentifier: 
+  m_question:
+    m_typeSentence: 0
+    m_content: "Cho da\u0303y s\xF4\u0301 sau: 2 11 25 44 68 ?"
+  m_arrAnswer:
+  - m_typeSentence: 0
+    m_content: 79
+  - m_typeSentence: 0
+    m_content: 78
+  - m_typeSentence: 0
+    m_content: 88
+  - m_typeSentence: 0
+    m_content: 97
+  m_indexAnswerCorrect: 3
